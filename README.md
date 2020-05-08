@@ -1,4 +1,4 @@
-# Amazon QLDB Python Driver
+# Amazon QLDB Python Driver 
 
 This is the Python driver for [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/qldb/), which allows Python developers
 to write software that makes use of AmazonQLDB.
