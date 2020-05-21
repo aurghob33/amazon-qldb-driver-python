@@ -7,7 +7,7 @@ to write software that makes use of AmazonQLDB.
 
 For our tutorial, see [Python and Amazon QLDB](https://docs.aws.amazon.com/qldb/latest/developerguide/getting-started.python.html).
 
-## Requirements
+## Requirements 
 
 ### Basic Configuration
 
